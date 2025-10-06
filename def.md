@@ -1,0 +1,1 @@
+Discord bot with two slash commands — /seartch to look up Wikipedia pages and /ping to show the bot’s latency. When the bot starts, it sends a private message to a specified user confirming it’s online.
